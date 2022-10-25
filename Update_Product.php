@@ -86,7 +86,7 @@
     				</div>
     			</div>
                 <div class="form-group">
-                    <label for="" class="col-sm-2 control-label">Product category(*): </label>
+                    <label for="" class="col-sm-2 control-label">Product supplier(*): </label>
                     <div class="col-sm-10">
                         <?php
                         bind_Supplier_List($conn, $supplier);
