@@ -1,0 +1,75 @@
+@startwbs ex1
+* eCommerce Website
+
+** Project Management
+** Requirements 
+*** Business 
+
+**** Domain Name 
+**** Maketing
+**** Process 
+
+***** Customer Ordering
+***** eCommerce
+***** Order Fulfillment
+***** Existing Systems Integration
+
+****** Shipping
+****** Financial
+****** Inventory
+****** Banking 
+****** CRM 
+
+**** Regulatory
+**** Legal 
+**** Operation Management/Site Maintenance
+
+*** Technical
+
+**** Security
+**** Network
+***** Hosting
+***** Plaftform
+
+***  Web User Interface 
+**** Unrestricted Content 
+**** Restricted Content
+**** eCommerce Capabilities
+*** Requirement Documentation (RFP)
+
+** Website Development
+*** Create Code Design DOcument 
+**** Release Schedule
+*** Code Control Systems
+*** Development Environment
+*** User Interface Design
+*** Database Model 
+*** COde Generation 
+**** Release Testing
+**** Buf Fixes
+*** Content
+**** User/Legal Agreement
+**** Product Catalogue
+**** Descriptions
+**** Images
+
+** Website Testing
+
+*** Test Environment Setup 
+*** Test Plan 
+*** UAT 
+*** Result Reporting
+
+** Website Deployment
+*** Hosting Agreement
+*** Application Integration
+*** Operation Switch Over 
+*** Release Documentation
+
+**** End User Documentation
+**** Application Administration Documentation
+**** Systems Administrator Documentation
+**** Disater Recovery
+
+
+@endwbs
